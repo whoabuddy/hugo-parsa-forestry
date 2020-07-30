@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awesomesauce on Hugo Parsa Forestry Starter</title>
+    <link>/tags/awesomesauce/</link>
+    <description>Recent content in Awesomesauce on Hugo Parsa Forestry Starter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jul 2020 15:53:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/awesomesauce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testing a new post - from the wysiwyg editor</title>
+      <link>/testing-a-new-post-from-the-wysiwyg-editor/</link>
+      <pubDate>Thu, 30 Jul 2020 15:53:00 +0000</pubDate>
+      
+      <guid>/testing-a-new-post-from-the-wysiwyg-editor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

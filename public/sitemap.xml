@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/awesomesauce/</loc>
+    <lastmod>2020-07-30T15:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cloudflare/</loc>
+    <lastmod>2020-07-30T15:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2020-07-30T15:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-07-30T15:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-30T15:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/testing/</loc>
+    <lastmod>2020-07-30T15:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/testing-a-new-post-from-the-wysiwyg-editor/</loc>
+    <lastmod>2020-07-30T15:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
@@ -113,11 +148,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/nature/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
@@ -154,11 +184,6 @@
   
   <url>
     <loc>/search/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
