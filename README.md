@@ -1,10 +1,14 @@
 ## Basic Info
 
-Website built using: Hugo Parsa Forestry Starter
+Website built using: Forestry.io and Hugo Parsa Forestry Starter Template
 
 - [Hugo Parsa Theme developed by Themefischer](https://github.com/themefisher/parsa-hugo) for Forestry CMS.
 
 The website is deployed to Cloudflare Workers via GitHub Actions on push to `master` branch.
+
+https://test-hugo.chaos.workers.dev
+
+This allows for local editing via `git` and `hugo server`, or editing via forestry.io interface (documented below).
 
 ## Content Management
 
