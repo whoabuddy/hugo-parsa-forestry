@@ -1,14 +1,15 @@
-## Basic Info
+## The Basics
 
-Website built using: Forestry.io and Hugo Parsa Forestry Starter Template
+This is a Proof of Concept for a new type of blog that can replace commonly-used big name proprietary and legacy technologies with something fast, flexible, open source, and downright **awesome**.
 
-- [Hugo Parsa Theme developed by Themefischer](https://github.com/themefisher/parsa-hugo) for Forestry CMS.
+- Framework: [Hugo](https://gohugo.io/) - open source static site generator
+- CMS: [Forestry](https://forestry.io/) - git-backed and markdwon-based content management
+- Starter Template: [Hugo Parsa Theme developed by Themefischer](https://github.com/themefisher/parsa-hugo)
+- Deployment: [Cloudflare Workers](https://workers.cloudflare.com) via [Wrangler](https://github.com/cloudflare/wrangler) and [GitHub Actions](https://github.com/features/actions)
 
-The website is deployed to Cloudflare Workers via GitHub Actions on push to `master` branch.
+Website: https://test-hugo.chaos.workers.dev
 
-https://test-hugo.chaos.workers.dev
-
-This allows for local editing via `git` and `hugo server`, or editing via forestry.io interface (documented below).
+Admin Panel: https://test-hugo.chaos.workers.dev/admin
 
 ## Content Management
 
